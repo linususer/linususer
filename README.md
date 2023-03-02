@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-profile-trophy.vercel.app/?username=linususer&theme=alduin
+![Trophy](https://github-profile-trophy.vercel.app/?username=linususer&theme=alduin&column=4&no-frame=true)
